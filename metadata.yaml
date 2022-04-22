@@ -1,11 +1,16 @@
 _repo: The-Climbers_67809
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67809-h/images/cover.jpg
 creator:
   author:
     agent_name: Bates, Lizzie
     gutenberg_agent_id: '54472'
     url: http://www.gutenberg.org/2009/agents/54472
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67809#The-Climbers
 gutenberg_issued: '2022-04-10'
 identifiers:
   gutenberg: '67809'
